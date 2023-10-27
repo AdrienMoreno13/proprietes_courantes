@@ -1,0 +1,36 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 40px;
+}
+
+h3 {
+  color: blue;
+  font-size: 25px;
+}
+
+.a {
+  background-color: grey;
+}
+
+strong {
+  color: yellowgreen;
+  font-weight: normal;
+}
+
+em {
+  font-style: normal;
+  text-decoration: underline;
+  font-size: 18px;
+  color: orange;
+}
+
+.b {
+  background-color: pink;
+}
+
+.c {
+  color: green;
+  text-align: right;
+  text-decoration: underline;  
+}
